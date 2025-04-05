@@ -15,25 +15,16 @@ namespace задание_26
         {
             int a, b, c;
             a = b = c = 2;
-
-            double z1 = (a * b + (double)c) / b - a * b * --c;
-            Console.WriteLine($"а: {z1}");
-
-
-            double z2 = a * b + c++ / (b - a * (b * --c));
-            Console.WriteLine($"б: {z2}");
-
-
-            double z3 = (a * b + (c++ / b)) - a * (b * --c);
-            Console.WriteLine($"в: {z3}");
-
-
-            double z4 = a * (b + c++) / b - a * b * --c;
-            Console.WriteLine($"г: {z4}");
-
-
-            double z5 = a * b + c++ / b - (a * b * --c);
-            Console.WriteLine($"д: {z5}");
+            double z1 = a * (b + c++ / (b - (a * (b * --c)))); 
+            Console.WriteLine(z1);
+            double z2 = a * b - (c++ / b) - (a * --c); 
+            Console.WriteLine(z2);
+            double z3 = a * b + c++ / (b - a * b) * --c; 
+            Console.WriteLine(z3);
+            double z4 = a * (b + c++ / b) - a * b * --c; 
+            Console.WriteLine(z4);
+            double z5 = a * (b + c++) / b - a * b * --c; 
+            Console.WriteLine(z5);
         }
     }
 }
