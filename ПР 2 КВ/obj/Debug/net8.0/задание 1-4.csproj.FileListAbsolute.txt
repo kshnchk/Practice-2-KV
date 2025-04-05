@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\bin\Debug\net8.0\задание 1-4.exe
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\bin\Debug\net8.0\задание 1-4.deps.json
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\bin\Debug\net8.0\задание 1-4.runtimeconfig.json
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\bin\Debug\net8.0\задание 1-4.dll
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\bin\Debug\net8.0\задание 1-4.pdb
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\задание 1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\задание 1-4.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\задание 1-4.AssemblyInfo.cs
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\задание 1-4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\задание 1-4.dll
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\refint\задание 1-4.dll
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\задание 1-4.pdb
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\задание 1-4.genruntimeconfig.cache
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\VS\ПР 2 КВ\ПР 2 КВ\obj\Debug\net8.0\ref\задание 1-4.dll
