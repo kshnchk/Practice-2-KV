@@ -16,27 +16,22 @@ namespace задание_19
             double c = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите значение e: ");
             double e = Convert.ToDouble(Console.ReadLine());
-            c = c - e;
-            if (a == 0)
+            c -= e;
+
+            double dis = Math.Pow(b, 2) - 4 * a * c;
+
+            if (dis < 0)
             {
-                Console.WriteLine("Ошибка: коэффициент a не должен быть равен 0.");
-                return;
+                Console.WriteLine("Нет действительных решений.");
             }
-            double D = b * b - 4 * a * c;
-            if (D > 0) 
+            else
             {
-                double x1 = (-b + Math.Sqrt(D)) / (2 * a);
-                double x2 = (-b - Math.Sqrt(D)) / (2 * a);
-                Console.WriteLine($"Уравнение имеет два корня: x1 = {x1}, x2 = {x2}");
-            }
-            else if (D == 0) 
-            {
-                double x = -b / (2 * a);
-                Console.WriteLine($"Уравнение имеет один корень: x = {x}");
-            }
-            else 
-            {
-                Console.WriteLine("Уравнение не имеет действительных корней.");
+                double x1 = (-b + Math.Sqrt(dis)) / (2 * a);
+                double x2 = (-b - Math.Sqrt(dis)) / (2 * a);
+
+                Console.WriteLine($"x1 = {x1}");
+                Console.WriteLine($"x2 = {x2}");
+
             }
         }
     }

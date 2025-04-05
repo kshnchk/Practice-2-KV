@@ -12,6 +12,8 @@ a = a * a; //a2*a2=a2+2=a4
 е) a10  за четыре операции.
 */
 
+using System;
+
 namespace задание_24
 {
     internal class Program
@@ -21,8 +23,8 @@ namespace задание_24
             Console.WriteLine("Введите a:");
             double a = double.Parse(Console.ReadLine());
 
-            double a4 = a * a;
-            a4 = a4 * a4;
+            double a2 = a * a;
+            double a4 = a2 * a2;
             Console.WriteLine($"a4 = {a4}");
 
 

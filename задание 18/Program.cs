@@ -10,11 +10,6 @@ namespace задание_18
         {
             Console.Write("Введите значение a (a ≠ 0): ");
             double a = Convert.ToDouble(Console.ReadLine());
-            if (a == 0)
-            {
-                Console.WriteLine("Ошибка: значение a не должно быть равно 0.");
-                return;
-            }
             Console.Write("Введите значение b: ");
             double b = Convert.ToDouble(Console.ReadLine());
             double x = -b / a;
